@@ -2,7 +2,7 @@
 # Project WILLOW
 
 ## Live Demo
-Coming soon to: https://mcgamercode.github.io/Project-Willow/
+Coming soon to: https://mcgamercode.github.io/Project-WIllow/
 
 ## Features
 - Tesla-inspired quantum decoding interface
